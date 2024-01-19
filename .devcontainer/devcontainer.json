@@ -1,0 +1,10 @@
+{
+  // Name
+  "name": "Codespace test.",
+
+  // Image
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+  "remoteUser": "codespace",
+  "overrideCommand": false
+}
